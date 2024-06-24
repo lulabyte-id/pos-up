@@ -2,7 +2,7 @@
 
 # POS Up!
 
-This project is a scalable SaaS-style platform designed to assist delivery companies in managing their operations efficiently. The platform is built using Laravel, a PHP framework, and utilizes the Filament package for the admin panel, Stancl/Tenancy for multi-tenancy support, and Vue.js for the client panel.
+This project is a scalable SaaS-style platform designed to assist SME business in managing their transactions efficiently. The platform is built using Laravel, a PHP framework, and utilizes the Filament package for the admin panel, Stancl/Tenancy for multi-tenancy support, and Vue.js for the client panel.
 
 ## Features
 

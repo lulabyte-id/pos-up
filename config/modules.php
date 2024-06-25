@@ -207,10 +207,10 @@ return [
     */
 
     'composer' => [
-        'vendor' => 'mohaphez',
+        'vendor' => 'lulabyte-id',
         'author' => [
-            'name'  => 'Hessam Taghvei',
-            'email' => 'mohaphez@gmail.com',
+            'name'  => 'Bayu Hafiz',
+            'email' => 'masbay@lulabyte.id',
         ],
         'composer-output' => false,
     ],

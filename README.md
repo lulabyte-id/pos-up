@@ -1,4 +1,4 @@
-![img.png](img.png)
+![img.png](storage/app/public/img.png)
 
 # POS Up!
 
